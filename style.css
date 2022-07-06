@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+.note{
+    font-family: monospace;
+    color: black;
+    font-size: 15px;
+}
+.heading{
+    margin-top: 0px;
+    width: 100%;
+    font-size: 23px;
+}
+.inpObj{
+    color: aliceblue;
+    font-size: 16px;
+}
+#input{
+    width: 42%;
+}
+canvas{
+    background-color: aliceblue;
+    border:3px solid whitesmoke;
+    box-shadow: 5px 5px 5px ghostwhite;
+    margin-top: 300px;
+    border-radius: 20px;
+}
